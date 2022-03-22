@@ -1,0 +1,117 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "@syncfusion/ej2-grids@19.4.48",
+      "destination": "wwwroot/scripts/ej2-grids/syncfusion/ej2-grids/",
+      "files": [
+        "dist/es6/ej2-grids.es2015.js",
+        "dist/es6/ej2-grids.es2015.js.map",
+        "dist/es6/ej2-grids.es5.js",
+        "dist/es6/ej2-grids.es5.js.map",
+        "dist/global/ej2-grids.min.js",
+        "dist/global/ej2-grids.min.js.map",
+        "dist/global/index.d.ts",
+        "dist/ej2-grids.umd.min.js",
+        "dist/ej2-grids.umd.min.js.map"
+      ]
+    },
+    {
+      "library": "@syncfusion/ej2-base@19.4.48",
+      "destination": "wwwroot/scripts/ej2-grids/syncfusion/ej2-base/",
+      "files": [
+        "dist/es6/ej2-base.es2015.js",
+        "dist/es6/ej2-base.es2015.js.map",
+        "dist/es6/ej2-base.es5.js",
+        "dist/es6/ej2-base.es5.js.map",
+        "dist/global/ej2-base.min.js",
+        "dist/global/ej2-base.min.js.map",
+        "dist/global/index.d.ts",
+        "dist/ej2-base.umd.min.js",
+        "dist/ej2-base.umd.min.js.map"
+      ]
+    },
+    {
+      "library": "@syncfusion/ej2-data@19.4.48",
+      "destination": "wwwroot/scripts/ej2-grids/syncfusion/ej2-data/",
+      "files": [
+        "dist/es6/ej2-data.es2015.js",
+        "dist/es6/ej2-data.es2015.js.map",
+        "dist/es6/ej2-data.es5.js",
+        "dist/es6/ej2-data.es5.js.map",
+        "dist/global/ej2-data.min.js",
+        "dist/global/ej2-data.min.js.map",
+        "dist/global/index.d.ts",
+        "dist/ej2-data.umd.min.js",
+        "dist/ej2-data.umd.min.js.map"
+      ]
+    },
+    {
+      "library": "@syncfusion/ej2-compression@19.4.48",
+      "destination": "wwwroot/scripts/ej2-grids/syncfusion/ej2-compression/",
+      "files": [
+        "dist/es6/ej2-compression.es2015.js",
+        "dist/es6/ej2-compression.es2015.js.map",
+        "dist/es6/ej2-compression.es5.js",
+        "dist/es6/ej2-compression.es5.js.map",
+        "dist/global/ej2-compression.min.js",
+        "dist/global/ej2-compression.min.js.map",
+        "dist/global/index.d.ts",
+        "dist/ej2-compression.umd.min.js",
+        "dist/ej2-compression.umd.min.js.map"
+      ]
+    },
+    {
+      "library": "@syncfusion/ej2-file-utils@19.4.48",
+      "destination": "wwwroot/scripts/ej2-grids/syncfusion/ej2-file-utils/",
+      "files": [
+        "dist/es6/ej2-file-utils.es2015.js",
+        "dist/es6/ej2-file-utils.es2015.js.map",
+        "dist/es6/ej2-file-utils.es5.js",
+        "dist/es6/ej2-file-utils.es5.js.map",
+        "dist/global/ej2-file-utils.min.js",
+        "dist/global/ej2-file-utils.min.js.map",
+        "dist/global/index.d.ts",
+        "dist/ej2-file-utils.umd.min.js",
+        "dist/ej2-file-utils.umd.min.js.map"
+      ]
+    },
+    {
+      "library": "@syncfusion/ej2-excel-export@19.4.48",
+      "destination": "wwwroot/scripts/ej2-grids/syncfusion/ej2-excel-export/",
+      "files": [
+        "dist/es6/ej2-excel-export.es2015.js",
+        "dist/es6/ej2-excel-export.es2015.js.map",
+        "dist/es6/ej2-excel-export.es5.js",
+        "dist/es6/ej2-excel-export.es5.js.map",
+        "dist/global/ej2-excel-export.min.js",
+        "dist/global/ej2-excel-export.min.js.map",
+        "dist/global/index.d.ts",
+        "dist/ts/auto-filters.ts",
+        "dist/ts/blob-helper.ts",
+        "dist/ts/cell-style.ts",
+        "dist/ts/cell.ts",
+        "dist/ts/column.ts",
+        "dist/ts/csv-helper.ts",
+        "dist/ts/enum.ts",
+        "dist/ts/image.ts",
+        "dist/ts/row.ts",
+        "dist/ts/value-formatter.ts",
+        "dist/ts/workbook.ts",
+        "dist/ts/worksheet.ts",
+        "dist/ts/worksheets.ts",
+        "dist/ej2-excel-export.umd.min.js",
+        "dist/ej2-excel-export.umd.min.js.map"
+      ]
+    },
+    {
+      "library": "@syncfusion/ej2@19.4.48",
+      "destination": "wwwroot/scripts/syncfusion/ej2/",
+      "files": [
+        "dist/ej2.d.ts",
+        "dist/ej2.min.js"
+      ]
+    }
+  ]
+}
